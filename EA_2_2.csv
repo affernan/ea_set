@@ -1,0 +1,9 @@
+SIZING PARAMETERS:
+NUMBER OF MEGA-CHARGERS: 1
+NUMBER OF REGULAR-CHARGERS: 1
+NUMBER OF SPARE BATTERIES: 1
+
+FLIGHTS INFORMATION:
+Aircraft   Flight     Destination      Departure Time  Arrival Time    SoC (%)
+A1         F1         CID              3.0             133.0           77.55
+A1         F2         MKE              263.0           357.0           26.50
